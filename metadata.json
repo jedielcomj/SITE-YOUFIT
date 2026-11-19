@@ -1,0 +1,6 @@
+{
+  "name": "MetaFit",
+  "description": "Treinos, dietas, gestão de alunos e cobrança recorrente em uma única plataforma para personals, treinadores e nutricionistas. Teste grátis por 10 dias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
